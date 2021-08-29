@@ -17,11 +17,11 @@
 <img src="./assets/escola.png" alt=" escola img"> <br>
 
 
-> Este projeto teve por objetivo colocar em pratica  habilidades no HTML e CSS.
+> Este projeto teve por objetivo colocar em pratica  habilidades no HTML e CSS e Javascript.
 
 ### Ajustes e melhorias
 
-O projeto ainda está pronto.
+O projeto esta pronto
 
 
 
